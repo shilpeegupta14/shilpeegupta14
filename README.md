@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shilpeegupta14.github.io/](https://shilpeegupta14.github.io/)
 
-- 💬 Ask me about **html, css, git, github, python**
+- 💬 Ask me about **html, css, git, github, python, swift**
 
 - ⚡ Fun fact **People who are using a computer blink 66% less than those who aren’t. you blinked didn't you!!**
 
