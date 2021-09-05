@@ -7,7 +7,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/264642...">
 
 
-- 👨‍💻 All of my projects are available at [https://shilpeegupta14.github.io/](https://shilpeegupta14.github.io/)
+- 👨‍💻 All of my projects are available at [https://git.io/JutKi](https://git.io/JutKi)
 
 - 💬 Ask me about **html, css, git, github, python, swift**
 
